@@ -1,6 +1,6 @@
 ### **WHAT MAKES US DIFFERENT**
 
-**VIDEO DEMO** :- https://www.youtube.com/watch?v=3oODFEEib7c
+
 
 1) _Beautiful and Simple UI_
 ![Screenshot (4852)](https://github.com/user-attachments/assets/3fbc9384-929d-43a9-85fe-9c3bbdae866f)
